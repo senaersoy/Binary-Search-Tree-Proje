@@ -3,6 +3,8 @@ Proje 3
 [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
 Root belirlenir. Sonra Root'tan büyük olanlar sağ tarafa, küçük olanlar sol tarafa sıralanır.
 Root ---> 7
+  
+  
   7
  /
 5
